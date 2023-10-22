@@ -4,7 +4,7 @@ SetPoliceIgnorePlayer(player, true)
 SetDispatchCopsForPlayer(player, false)
 SetMaxWantedLevel(0)
 
-SetPedPopulationBudget(100)
+SetPedPopulationBudget(0)
 SetVehiclePopulationBudget(0)
 SetNumberOfParkedVehicles(0)
 SetCreateRandomCops(false)
